@@ -15,5 +15,6 @@ On this website you will be able to find my final presentation for COMP 110! Thi
 ## Summary of Our Analysis on Cuurent Office Hour Effectiveness
 
 ## Visualizations Through Seaborn
+<img width="562" height="463" alt="d4225491-c46d-4d16-8c50-eeba46e5588e" src="https://github.com/user-attachments/assets/5b66c77e-b80a-4876-bb4b-8338467b1b4b" />
 
 ## Final Conclusion of Analysis
